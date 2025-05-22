@@ -5,18 +5,20 @@ Algoritmo "semnome"
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 19/05/2025
 Var
-v1,  v2, soma: inteiro
+// Seção de Declarações das variáveis 
+
+   nome:caracter
+   numero:real
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-   escreva ("valor ")
-   leia (v1)
-   
-    escreva ("valor ")
-    leia (v2)
-    
-    soma <- v1+v2
-    
-    escreva ("resultado da soma ",soma)
 
+escreva ("nome  ")
+
+  leia (nome)
+  
+  escreva ("finconario ")
+  leia (numero)
+  
+  
 Fimalgoritmo
